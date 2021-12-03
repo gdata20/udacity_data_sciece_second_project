@@ -1,1 +1,1 @@
-# udacity_data_sciece_second_project
+# udacity_data_science_second_project
